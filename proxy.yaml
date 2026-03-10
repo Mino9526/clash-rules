@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-KEYWORD,gitlab
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,deepseek
+  - DOMAIN-KEYWORD,micronaut
+  - DOMAIN-KEYWORD,quarkus
+  - DOMAIN,momoyu.cc
+  - DOMAIN,deeplx.missuo.ru
+  - DOMAIN,mvnrepository.com
+  - DOMAIN-SUFFIX,io
