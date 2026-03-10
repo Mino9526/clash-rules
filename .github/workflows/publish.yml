@@ -16,6 +16,6 @@ jobs:
       - name: Publish to Release
         run: |
           gh release delete latest --yes 2>/dev/null || true
-          gh release create latest --title "Latest" --files *.yaml
+          gh release create latest --title "Latest" *.yaml
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
