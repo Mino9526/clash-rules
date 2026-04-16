@@ -1,0 +1,14 @@
+payload:
+  - PROCESS-NAME,Postman.exe
+  - DOMAIN,unionadjs.com
+  - DOMAIN,bootcss.com
+  - DOMAIN,bootcdn.net
+  - DOMAIN,staticfile.org
+  - DOMAIN,staticfile.net
+  - DOMAIN-SUFFIX,unionadjs.com
+  - DOMAIN-SUFFIX,bootcss.com
+  - DOMAIN-SUFFIX,bootcdn.net
+  - DOMAIN-SUFFIX,staticfile.org
+  - DOMAIN-SUFFIX,staticfile.net
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,csdn
