@@ -10,5 +10,4 @@ payload:
   - DOMAIN-SUFFIX,bootcdn.net
   - DOMAIN-SUFFIX,staticfile.org
   - DOMAIN-SUFFIX,staticfile.net
-  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,csdn
