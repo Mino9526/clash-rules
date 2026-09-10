@@ -24,7 +24,6 @@ payload:
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,gitlab
   - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,micronaut
   - DOMAIN-KEYWORD,quarkus
   - DOMAIN,momoyu.cc
